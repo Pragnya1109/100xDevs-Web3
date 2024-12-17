@@ -102,3 +102,11 @@ If user private key used for certificate creation higher in the PKI (Public Key 
 - **RSA**: RSA is an basic asymmetric cryptographic algorithm which uses two different keys for encryption. The RSA algorithm works on a block cipher concept that converts plain text into cipher text and vice versa.
 
 - **Secure Hash Algorithm (SHA)**: SHA is used to generate unique fixed-length digital fingerprints of input data known as hashes. SHA variations such as SHA-2 and SHA-3 are commonly used to ensure data integrity and authenticity. The tiniest change in input data drastically modifies the hash output, indicating a loss of integrity. Hashing is the process of storing key value pairs with the help of a hash function into a hash table.
+
+---
+
+### Resources
+
+- https://www.geeksforgeeks.org/cryptography-in-blockchain/
+- https://www.cs.unibo.it/babaoglu/courses/security/resources/documents/intro-to-crypto.pdf
+- https://hashelse.medium.com/cryptography-for-absolute-beginners-3e274f9d6d66
